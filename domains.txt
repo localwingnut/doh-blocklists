@@ -128,7 +128,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 b-ii.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
@@ -307,6 +306,7 @@ dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
+dns.chenu.ch
 dns.chilimac.net
 dns.christerwaren.fi
 dns.christian.moe
@@ -315,6 +315,7 @@ dns.chromeina.top
 dns.chunghwamc.com
 dns.circl.lu
 dns.clanless.ovh
+dns.clanto.cloud
 dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
@@ -397,7 +398,6 @@ dns.flwagners.com
 dns.flymc.cc
 dnsforfamily.com
 dnsforge.de
-dns.foximao.cn
 dns.foxyfy.net
 dns-free.link
 dns.freopc.fr
@@ -669,6 +669,7 @@ dns.vmath.my.id
 dns.vod11.xyz
 dnsvps.familiamv.net
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -757,7 +758,6 @@ doh-ipv6.crypto.sx
 doh.jeroenhd.nl
 doh.kekew.info
 doh.kidzonet.io
-doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
@@ -842,7 +842,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -858,7 +857,6 @@ eyg01.dnscry.pt
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.dremaxx.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
@@ -998,7 +996,6 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1099,7 +1096,6 @@ paradise-human.shop
 paranoia.mydns.network
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
-pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
 pepetio.xyz
@@ -1115,6 +1111,7 @@ pihole.datamatter.co.za
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
+pm9352-bd.xyz
 polisitogel.beauty
 polisitogel.contractors
 polisitogel.hair
@@ -1142,7 +1139,6 @@ quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
-rdns.faelix.net
 regiopolis.cloud
 renardbleu.dev
 res-acst1.absolight.net
@@ -1266,6 +1262,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
