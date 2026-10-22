@@ -4,6 +4,7 @@ Public DNS-over-HTTPS resolver lists for firewall blocking (pfBlockerNG).
 
 - `domains.txt`: DoH resolver hostnames (DNS blocking).
 - `ipv4-deny.txt`, `ipv6-deny.txt`: DoH resolver addresses, Apple addresses removed.
+- `apple-domains.doh`: Apple's own encrypted-DNS and iCloud Private Relay hostnames (plain list).
 - `apple-ipv4.txt`: addresses in Apple's 17.0.0.0/8 (removed from the DoH IPv4 list).
 - `apple-ipv6.txt`: addresses in Apple's 2620:149::/32 and 2403:300::/32 (removed from the DoH IPv6 list).
 
