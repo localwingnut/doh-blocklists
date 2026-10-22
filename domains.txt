@@ -735,8 +735,6 @@ doh.denypradana.com
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh.disconnect.app
 doh.dns4all.eu
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
 doh.dnscrypt.uk
 doh.dns.sb
 doh.domreg.lt
@@ -1003,9 +1001,6 @@ mail.data.haus
 mailer.amlegion.org
 man01.dnscry.pt
 maqgie.xyz
-mask-api.icloud.com
-mask-h2.icloud.com
-mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
